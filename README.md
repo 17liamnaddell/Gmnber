@@ -15,6 +15,7 @@ Tests:
 
 Needs work:
   Haskell
+  Golang
   Crystal
   C (the c implementation is glitchy)
 
