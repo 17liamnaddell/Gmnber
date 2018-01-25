@@ -22,3 +22,4 @@ Needs work:
 SPEC:
   All programs must implement the most polished implementation of the program in order to be considered done
   Right now they all have different levels of polish
+  Remove NEEDSWORK file when prog is finished
