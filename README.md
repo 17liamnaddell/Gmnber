@@ -13,13 +13,6 @@ Tests:
 7. Compiling software
 7. Ect.
 
-Needs work:
-  Haskell
-  Golang
-  Crystal
-  C (the c implementation is glitchy)
-
-
 SPEC:
   All programs must implement the most polished implementation of the program in order to be considered done
   Right now they all have different levels of polish
